@@ -31,7 +31,7 @@ After succesful order there is also feedback to the client and data is sent to a
 - Firabase (back-end)
 
 ## Author
-- GitHub - [Marcin Suski](https://github.com/marcinsuski)
+- GitHub - [Shreshth Sudhir](https://github.com/Shreshth55)
 
 
 
